@@ -27,7 +27,7 @@ The names in the contact list must exactly match otherwise this code won't work
 
 
 # Disclaimer
-This code is created only for test purpose and I am not responsible for any misuse of the code.
+This code is created only for educational purpose and I am not responsible for any misuse of the code. 
 
 Connect with me - <br>
 🎯🎯
