@@ -29,8 +29,8 @@ The names in the contact list must exactly match otherwise this code won't work
 # Disclaimer
 This code is created only for educational purpose and I am not responsible for any misuse of the code. 
 
-Connect with me - <br>
-🎯🎯
+# Connect with me -🎯🎯
+
 * [Linkedin](https://www.linkedin.com/in/santhosh-kumar-dhanasekaran-85a89b131/)
 
 * [Youtube](https://www.youtube.com/channel/UCyJBMhkN3MlHHWWZrDDtXPQ)
