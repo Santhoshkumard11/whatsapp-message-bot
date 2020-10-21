@@ -4,6 +4,11 @@
 
 Automate the boring task of sending forward messages on whatsapp using python
 
+# Read this blog for more instrution and how to use this code
+
+[Read this => automate-whatsapp-messaging-using-pythons-pyautogui-library](https://medium.com/@santhoshkdhana/automate-whatsapp-messaging-using-pythons-pyautogui-library-866608f5e55d)
+
+
 # Instruction 📄
 
 ### Install the library
